@@ -1,7 +1,7 @@
 # GYM MEMBERS EXERCISE ROUTINE ANALYSIS Dashboard (Power BI)
 
 ## Objective:
-The objective of this analysis and visualization is to uncover trends in gym members workout habits and health metrics, providing insights into their fitness progress and needs. This information will guide data-driven decisions to personalize training programs and improve member satisfaction.
+The objective is to uncover trends in gym members workout habits and health metrics, providing insights into their fitness progress and needs. This information will guide data-driven decisions to personalize training programs and improve member satisfaction.
 
 ## Analysis Conducted (Questions):
 1. How does calorie expenditure vary across different workout types?
