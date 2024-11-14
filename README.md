@@ -19,6 +19,8 @@ Remove unwanted columns from the orders table to reduce unnecessary data.
 3. Load data to Power BI.
 
 ## Types of Visuals Created:
+![dashboard 2](https://github.com/user-attachments/assets/e1705f29-1147-442c-ac91-a87ccc582a78)
+
 1. KPIs (key Performance Indicators).
 2. Bar Charts.
 3. Line Charts.
@@ -34,3 +36,5 @@ Strength training shows the highest calorie expenditure among workout types, mak
 Variations in session duration by age and gender suggest diverse workout preferences, and a higher BMI is linked to more frequent workouts, possibly due to health improvement goals. 
 These insights enable tailored training programs to meet individual fitness levels and optimize member engagement.
 
+![dashboard 2](https://github.com/user-attachments/assets/b2d44229-2a3f-465b-89af-ec202d1efee4)
+![Dashboard 1](https://github.com/user-attachments/assets/8131a315-5ca2-47fd-a2ae-c729ab99cf13)
